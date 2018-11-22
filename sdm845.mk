@@ -88,6 +88,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     librecovery_updater_xiaomi
 
+# SnapdragonCamera
+PRODUCT_PACKAGES += \
+    SnapdragonCamera
+
 # Telephony
 PRODUCT_PACKAGES += \
     telephony-ext
